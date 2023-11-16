@@ -1,0 +1,14 @@
+{
+  "name": "gandia-2023-intro-javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "juan",
+  "license": "ISC",
+  "dependencies": {
+    "is-odd": "^3.0.1"
+  }
+}
